@@ -3,7 +3,6 @@ import { StyleSheet, Text, TouchableHighlight, TouchableOpacity, View } from "re
 
 const ListContainerItem = (props) => {
   const { data } = props;
-  console.log("ROW item", data.item);
   return (
     <TouchableHighlight onPress={() => console.log("You touched me")} style={styles.rowFront} underlayColor={"#AAA"}>
       <View>
