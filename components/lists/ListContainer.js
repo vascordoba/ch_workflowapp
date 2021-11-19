@@ -1,5 +1,5 @@
 import React from "react";
-import { StyleSheet, View, FlatList } from "react-native";
+import { View } from "react-native";
 import { SwipeListView } from "react-native-swipe-list-view";
 import { ListContainerItem, ListContainerHiddenItem } from "./ListContainerItem";
 
