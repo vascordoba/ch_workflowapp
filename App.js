@@ -1,7 +1,12 @@
 import React from "react";
 
-import WorkflowNavigation from "./navigation/WorkflowNavigation";
+import { NavigationContainer } from "@react-navigation/native";
+import MainNavigation from "./navigation/MainNavigation";
 
 export default function App() {
-  return <WorkflowNavigation />;
+  return (
+    <NavigationContainer>
+      <MainNavigation />
+    </NavigationContainer>
+  );
 }

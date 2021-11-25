@@ -11,12 +11,6 @@ export default function Tasks({ navigation, route }) {
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
-  },
   mainView: {
     paddingTop: 50,
     paddingLeft: 20,
