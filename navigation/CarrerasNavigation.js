@@ -1,24 +1,24 @@
 import React from "react";
 import { Button } from "react-native-elements";
-import { NavigationContainer } from "@react-navigation/native";
+
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
 import Login from "../screens/Login";
-import Tasks from "../screens/Tasks";
-import TaskDetail from "../screens/TaskDetail";
+import Carreras from "../screens/Carreras";
+import MateriasCarrera from "../screens/MateriasCarrera";
 
 const Stack = createNativeStackNavigator();
 
-export default function TasksNavigation() {
+export default function CarrerasNavigation() {
   return (
     <Stack.Navigator
       initialRouteName="Login"
       screenOptions={{ animation: "flip", headerStyle: { backgroundColor: "#45ffff" } }}
     >
-      <Stack.Screen name="Login" component={Login} />
+      <Stack.Screen name="CUP" component={Login} />
       <Stack.Screen
-        name="Tasks"
-        component={Tasks}
+        name="Carreras"
+        component={Carreras}
         options={({ navigation, route }) => ({
           headerLeft: () => (
             <Button
@@ -26,13 +26,13 @@ export default function TasksNavigation() {
                 alert("Goodbye!");
                 navigation.goBack();
               }}
-              title="< Logout"
+              title="< Salir"
               type="outline"
             />
           ),
         })}
       />
-      <Stack.Screen name="TaskDetail" component={TaskDetail} />
+      <Stack.Screen name="Materias" component={MateriasCarrera} />
     </Stack.Navigator>
   );
 }

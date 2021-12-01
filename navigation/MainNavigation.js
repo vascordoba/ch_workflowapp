@@ -2,8 +2,8 @@ import React from "react";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Icon } from "react-native-elements";
 
-import WorkflowNavigation from "./WorkflowsNavigation";
-import TasksNavigation from "./TasksNavigation";
+import WorkflowNavigation from "./ExamenesNavigation";
+import CarrerasNavigation from "./CarrerasNavigation";
 
 const BottomTabs = createBottomTabNavigator();
 
@@ -17,17 +17,17 @@ export default function MainNavigation() {
         tabBarActiveBackgroundColor: "#bbb",
         tabBarInactiveTintColor: "#000",
       }}
-      initialRouteName="Tasks"
+      initialRouteName="Carreras"
     >
       <BottomTabs.Screen
-        name="Tasks"
-        component={TasksNavigation}
+        name="Carreras"
+        component={CarrerasNavigation}
         options={{
           tabBarIcon: ({ tintColor, activeTintColor }) => <Icon type="font-awesome" name="tasks" />,
         }}
       />
       <BottomTabs.Screen
-        name="Workflows"
+        name="Examenes"
         component={WorkflowNavigation}
         options={{
           tabBarIcon: ({ tintColor, activeTintColor }) => <Icon type="font-awesome" name="random" color={tintColor} />,

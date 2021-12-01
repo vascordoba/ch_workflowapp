@@ -1,0 +1,488 @@
+[
+  {
+    "id_materia": 46,
+    "plan_id": 56,
+    "carrera_id": 26,
+    "name": "FILOSOFIA"
+  },
+  {
+    "id_materia": 59,
+    "plan_id": 83,
+    "carrera_id": 26,
+    "name": "SOCIOLOGIA"
+  },
+  {
+    "id_materia": 61,
+    "plan_id": 88,
+    "carrera_id": 26,
+    "name": "PSICOLOGIA SOCIAL"
+  },
+  {
+    "id_materia": 158,
+    "plan_id": 207,
+    "carrera_id": 26,
+    "name": "NARRATIVAS Y REDACCIÓN 1"
+  },
+  {
+    "id_materia": 159,
+    "plan_id": 209,
+    "carrera_id": 26,
+    "name": "MÉTODOS DE INDAGACIÓN"
+  },
+  {
+    "id_materia": 160,
+    "plan_id": 210,
+    "carrera_id": 26,
+    "name": "PERIODISMO Y MEDIOS 1"
+  },
+  {
+    "id_materia": 162,
+    "plan_id": 211,
+    "carrera_id": 26,
+    "name": "TEORÍAS DE LA COMUNICACIÓN"
+  },
+  {
+    "id_materia": 164,
+    "plan_id": 212,
+    "carrera_id": 26,
+    "name": "TALLER DE LOCUCIÓN 1"
+  },
+  {
+    "id_materia": 165,
+    "plan_id": 213,
+    "carrera_id": 26,
+    "name": "LINGÜÍSTICA"
+  },
+  {
+    "id_materia": 166,
+    "plan_id": 214,
+    "carrera_id": 26,
+    "name": "PERIODISMO Y MEDIOS 2"
+  },
+  {
+    "id_materia": 167,
+    "plan_id": 215,
+    "carrera_id": 26,
+    "name": "HERRAMIENTAS MULTIMEDIA 1"
+  },
+  {
+    "id_materia": 169,
+    "plan_id": 217,
+    "carrera_id": 26,
+    "name": "COMUNICACIÓN, CULTURA Y ARTE"
+  },
+  {
+    "id_materia": 170,
+    "plan_id": 219,
+    "carrera_id": 26,
+    "name": "NARRATIVAS Y REDACCIÓN 2"
+  },
+  {
+    "id_materia": 171,
+    "plan_id": 221,
+    "carrera_id": 26,
+    "name": "ANTROPOLOGÍA"
+  },
+  {
+    "id_materia": 172,
+    "plan_id": 223,
+    "carrera_id": 26,
+    "name": "HISTORIA Y PROBLEMÁTICAS CONTEMPORÁNEAS"
+  },
+  {
+    "id_materia": 173,
+    "plan_id": 225,
+    "carrera_id": 26,
+    "name": "TALLER DE LOCUCIÓN 2"
+  },
+  {
+    "id_materia": 174,
+    "plan_id": 226,
+    "carrera_id": 26,
+    "name": "HERRAMIENTAS MULTIMEDIA 2"
+  },
+  {
+    "id_materia": 175,
+    "plan_id": 228,
+    "carrera_id": 26,
+    "name": "PERIODISMO Y MEDIOS 3"
+  },
+  {
+    "id_materia": 176,
+    "plan_id": 229,
+    "carrera_id": 26,
+    "name": "POLÍTICA"
+  },
+  {
+    "id_materia": 177,
+    "plan_id": 230,
+    "carrera_id": 26,
+    "name": "TALLER DE PRODUCCIÓN PERIODÍSTICA 3"
+  },
+  {
+    "id_materia": 178,
+    "plan_id": 231,
+    "carrera_id": 26,
+    "name": "DERECHO Y LEGISLACIÓN"
+  },
+  {
+    "id_materia": 179,
+    "plan_id": 233,
+    "carrera_id": 26,
+    "name": "HERRAMIENTAS MULTIMEDIA 3"
+  },
+  {
+    "id_materia": 180,
+    "plan_id": 235,
+    "carrera_id": 26,
+    "name": "PERIODISMO Y MEDIOS 4"
+  },
+  {
+    "id_materia": 182,
+    "plan_id": 236,
+    "carrera_id": 26,
+    "name": "TALLER DE PRODUCCIÓN PERIODÍSTICA 1"
+  },
+  {
+    "id_materia": 183,
+    "plan_id": 237,
+    "carrera_id": 26,
+    "name": "NARRATIVAS Y REDACCIÓN 3"
+  },
+  {
+    "id_materia": 184,
+    "plan_id": 238,
+    "carrera_id": 26,
+    "name": "PERIODISMO Y MEDIOS 5"
+  },
+  {
+    "id_materia": 185,
+    "plan_id": 239,
+    "carrera_id": 26,
+    "name": "ÉTICA PROFESIONAL"
+  },
+  {
+    "id_materia": 186,
+    "plan_id": 241,
+    "carrera_id": 26,
+    "name": "HERRAMIENTAS MULTIMEDIA 4"
+  },
+  {
+    "id_materia": 188,
+    "plan_id": 242,
+    "carrera_id": 26,
+    "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+  },
+  {
+    "id_materia": 189,
+    "plan_id": 244,
+    "carrera_id": 26,
+    "name": "CREATIVIDAD E INNOVACIÓN"
+  },
+  {
+    "id_materia": 190,
+    "plan_id": 245,
+    "carrera_id": 26,
+    "name": "TALLER DE PRODUCCIÓN PERIODÍSTICA 5"
+  },
+  {
+    "id_materia": 191,
+    "plan_id": 246,
+    "carrera_id": 26,
+    "name": "NARRATIVAS Y REDACCIÓN 4"
+  },
+  {
+    "id_materia": 192,
+    "plan_id": 247,
+    "carrera_id": 26,
+    "name": "PERIODISMO Y MEDIOS 6"
+  },
+  {
+    "id_materia": 193,
+    "plan_id": 248,
+    "carrera_id": 26,
+    "name": "TALLER DE PRODUCCIÓN MULTIMEDIA"
+  },
+  {
+    "id_materia": 194,
+    "plan_id": 249,
+    "carrera_id": 26,
+    "name": "COMUNICACIÓN ORGANIZACIONAL"
+  },
+  {
+    "id_materia": 195,
+    "plan_id": 250,
+    "carrera_id": 26,
+    "name": "EMPRENDEDORISMO"
+  },
+  {
+    "id_materia": 196,
+    "plan_id": 252,
+    "carrera_id": 26,
+    "name": "LIDERAZGO"
+  },
+  {
+    "id_materia": 197,
+    "plan_id": 253,
+    "carrera_id": 26,
+    "name": "ECONOMÍA"
+  },
+  {
+    "id_materia": 198,
+    "plan_id": 254,
+    "carrera_id": 26,
+    "name": "TALLER DE PRODUCCIÓN PERIODÍSTICA 6"
+  },
+  {
+    "id_materia": 199,
+    "plan_id": 255,
+    "carrera_id": 26,
+    "name": "SEMIÓTICA"
+  },
+  {
+    "id_materia": 200,
+    "plan_id": 256,
+    "carrera_id": 26,
+    "name": "TALLER DE PRODUCCIÓN PERIODÍSTICA 2"
+  },
+  {
+    "id_materia": 201,
+    "plan_id": 257,
+    "carrera_id": 26,
+    "name": "TALLER DE PRODUCCIÓN PERIODÍSTICA 4"
+  },
+  {
+    "id_materia": 202,
+    "plan_id": 258,
+    "carrera_id": 26,
+    "name": "PÚBLICOS Y AUDIENCIAS"
+  },
+  {
+    "id_materia": 4,
+    "plan_id": 5,
+    "carrera_id": 28,
+    "name": "LENGUAJE CORPORAL"
+  },
+  {
+    "id_materia": 158,
+    "plan_id": 208,
+    "carrera_id": 28,
+    "name": "NARRATIVAS Y REDACCIÓN 1"
+  },
+  {
+    "id_materia": 167,
+    "plan_id": 216,
+    "carrera_id": 28,
+    "name": "HERRAMIENTAS MULTIMEDIA 1"
+  },
+  {
+    "id_materia": 169,
+    "plan_id": 218,
+    "carrera_id": 28,
+    "name": "COMUNICACIÓN, CULTURA Y ARTE"
+  },
+  {
+    "id_materia": 170,
+    "plan_id": 220,
+    "carrera_id": 28,
+    "name": "NARRATIVAS Y REDACCIÓN 2"
+  },
+  {
+    "id_materia": 171,
+    "plan_id": 222,
+    "carrera_id": 28,
+    "name": "ANTROPOLOGÍA"
+  },
+  {
+    "id_materia": 172,
+    "plan_id": 224,
+    "carrera_id": 28,
+    "name": "HISTORIA Y PROBLEMÁTICAS CONTEMPORÁNEAS"
+  },
+  {
+    "id_materia": 174,
+    "plan_id": 227,
+    "carrera_id": 28,
+    "name": "HERRAMIENTAS MULTIMEDIA 2"
+  },
+  {
+    "id_materia": 178,
+    "plan_id": 232,
+    "carrera_id": 28,
+    "name": "DERECHO Y LEGISLACIÓN"
+  },
+  {
+    "id_materia": 179,
+    "plan_id": 234,
+    "carrera_id": 28,
+    "name": "HERRAMIENTAS MULTIMEDIA 3"
+  },
+  {
+    "id_materia": 185,
+    "plan_id": 240,
+    "carrera_id": 28,
+    "name": "ÉTICA PROFESIONAL"
+  },
+  {
+    "id_materia": 188,
+    "plan_id": 243,
+    "carrera_id": 28,
+    "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+  },
+  {
+    "id_materia": 195,
+    "plan_id": 251,
+    "carrera_id": 28,
+    "name": "EMPRENDEDORISMO"
+  },
+  {
+    "id_materia": 204,
+    "plan_id": 260,
+    "carrera_id": 28,
+    "name": "LOCUCIÓN 1"
+  },
+  {
+    "id_materia": 205,
+    "plan_id": 261,
+    "carrera_id": 28,
+    "name": "EDUCACIÓN DE LA VOZ 1"
+  },
+  {
+    "id_materia": 206,
+    "plan_id": 262,
+    "carrera_id": 28,
+    "name": "TEORÍA Y PRÁCTICA DE RADIO 1"
+  },
+  {
+    "id_materia": 207,
+    "plan_id": 263,
+    "carrera_id": 28,
+    "name": "ACTUACIÓN"
+  },
+  {
+    "id_materia": 208,
+    "plan_id": 264,
+    "carrera_id": 28,
+    "name": "METODOLOGÍA DE INVESTIGACIÓN PERIODÍSTICA 1"
+  },
+  {
+    "id_materia": 209,
+    "plan_id": 265,
+    "carrera_id": 28,
+    "name": "LOCUCIÓN 2"
+  },
+  {
+    "id_materia": 210,
+    "plan_id": 266,
+    "carrera_id": 28,
+    "name": "EDUCACIÓN DE LA VOZ 2"
+  },
+  {
+    "id_materia": 211,
+    "plan_id": 267,
+    "carrera_id": 28,
+    "name": "TEORÍA Y PRÁCTICA DE RADIO 2"
+  },
+  {
+    "id_materia": 212,
+    "plan_id": 268,
+    "carrera_id": 28,
+    "name": "TEORÍA Y PRÁCTICA AUDIOVISUAL 2"
+  },
+  {
+    "id_materia": 213,
+    "plan_id": 269,
+    "carrera_id": 28,
+    "name": "FONÉTICA 1"
+  },
+  {
+    "id_materia": 214,
+    "plan_id": 270,
+    "carrera_id": 28,
+    "name": "TEORÍA Y PRÁCTICA DE RADIO 3"
+  },
+  {
+    "id_materia": 215,
+    "plan_id": 271,
+    "carrera_id": 28,
+    "name": "TEORÍA Y PRÁCTICA AUDIOVISUAL 3"
+  },
+  {
+    "id_materia": 216,
+    "plan_id": 272,
+    "carrera_id": 28,
+    "name": "FONÉTICA 2"
+  },
+  {
+    "id_materia": 217,
+    "plan_id": 273,
+    "carrera_id": 28,
+    "name": "METODOLOGÍA DE INVESTIGACIÓN PERIODÍSTICA 2"
+  },
+  {
+    "id_materia": 218,
+    "plan_id": 274,
+    "carrera_id": 28,
+    "name": "LOCUCIÓN 3"
+  },
+  {
+    "id_materia": 219,
+    "plan_id": 275,
+    "carrera_id": 28,
+    "name": "EDUCACIÓN DE LA VOZ 3"
+  },
+  {
+    "id_materia": 220,
+    "plan_id": 276,
+    "carrera_id": 28,
+    "name": "DOBLAJE"
+  },
+  {
+    "id_materia": 221,
+    "plan_id": 277,
+    "carrera_id": 28,
+    "name": "TEORÍA Y PRÁCTICA DE RADIO 4"
+  },
+  {
+    "id_materia": 222,
+    "plan_id": 278,
+    "carrera_id": 28,
+    "name": "TEORÍA Y PRÁCTICA AUDIOVISUAL 4"
+  },
+  {
+    "id_materia": 223,
+    "plan_id": 279,
+    "carrera_id": 28,
+    "name": "ORATORIA"
+  },
+  {
+    "id_materia": 224,
+    "plan_id": 280,
+    "carrera_id": 28,
+    "name": "FONÉTICA 3"
+  },
+  {
+    "id_materia": 225,
+    "plan_id": 281,
+    "carrera_id": 28,
+    "name": "TEORÍA Y PRÁCTICA AUDIOVISUAL 1"
+  },
+  {
+    "id_materia": 226,
+    "plan_id": 282,
+    "carrera_id": 28,
+    "name": "TEORIAS DE LA COMUNICACION LN"
+  },
+  {
+    "id_materia": 227,
+    "plan_id": 283,
+    "carrera_id": 28,
+    "name": "CREATIVIDAD E INNOVACIÓN LN"
+  },
+  {
+    "id_materia": 228,
+    "plan_id": 284,
+    "carrera_id": 28,
+    "name": "LINGUISTICA TEC LOC"
+  }
+]

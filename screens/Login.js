@@ -4,7 +4,7 @@ import { Button } from "react-native-elements";
 
 export default function Login({ navigation, route }) {
   const handleLogin = () => {
-    navigation.navigate("Tasks");
+    navigation.navigate("Carreras");
   };
 
   return (

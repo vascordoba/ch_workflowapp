@@ -2,14 +2,14 @@ import React from "react";
 import { StyleSheet, View } from "react-native";
 import { Button } from "react-native-elements";
 
-export default function Workflows({ navigation, route }) {
+export default function Examenes({ navigation, route }) {
   const handleLogin = () => {
-    navigation.navigate("Tasks");
+    navigation.navigate("Carreras");
   };
 
   return (
     <View style={styles.mainView}>
-      <Button title="Tasks" onPress={handleLogin} />
+      <Button title="Carreras" onPress={handleLogin} />
     </View>
   );
 }
