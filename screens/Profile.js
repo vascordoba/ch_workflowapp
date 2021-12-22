@@ -1,8 +1,14 @@
-import React from "react";
-import { StyleSheet, View } from "react-native";
+import React, { useEffect } from "react";
+import { StyleSheet, View, Text } from "react-native";
 import { Button } from "react-native-elements";
+import { useSelector, useDispatch } from 'react-redux';
+import { loadProfile } from "../store/actions/profile-actions";
 
 export default function Profile({ navigation, route }) {
+
+  let profile = useSelector(state => {
+    return state.profile.profile;
+  })
 
   const handleEditProfile = () => {
     navigation.navigate("EditProfile");
@@ -10,6 +16,7 @@ export default function Profile({ navigation, route }) {
 
   return (
     <View style={styles.mainView}>
+      {profile ? <Text>Perfil: {profile.alias}</Text> : ""}
       <Button title="Editar perfil" onPress={handleEditProfile} />
     </View>
   );

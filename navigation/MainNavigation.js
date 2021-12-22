@@ -1,6 +1,8 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { useDispatch } from "react-redux";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Icon } from "react-native-elements";
+import { loadProfile } from '../store/actions/profile-actions'
 
 import ExamenesNavigation from "./ExamenesNavigation";
 import CarrerasNavigation from "./CarrerasNavigation";
@@ -9,6 +11,11 @@ import ProfileNavigation from "./ProfileNavigation";
 const BottomTabs = createBottomTabNavigator();
 
 export default function MainNavigation() {
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(loadProfile());
+  }, [])
+
   return (
     <BottomTabs.Navigator
       screenOptions={{
@@ -18,17 +25,17 @@ export default function MainNavigation() {
         tabBarActiveBackgroundColor: "#bbb",
         tabBarInactiveTintColor: "#000",
       }}
-      initialRouteName="Carreras"
+      initialRouteName="Planes"
     >
       <BottomTabs.Screen
-        name="Carreras"
+        name="Planes"
         component={CarrerasNavigation}
         options={{
           tabBarIcon: ({ tintColor, activeTintColor }) => <Icon type="font-awesome" name="tasks" />,
         }}
       />
       <BottomTabs.Screen
-        name="Examenes"
+        name="Mesas de Examen"
         component={ExamenesNavigation}
         options={{
           tabBarIcon: ({ tintColor, activeTintColor }) => <Icon type="font-awesome" name="random" color={tintColor} />,

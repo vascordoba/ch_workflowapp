@@ -9,8 +9,6 @@ export default function EditProfile({ navigation, route }) {
 
   const profile = useSelector((state) => state.profile.profile);
 
-  console.log("PROFILE LOADED", profile)
-
   const dispatch = useDispatch();
   const [name, setName] = useState(profile.name ? profile.name : '');
   const [alias, setAlias] = useState(profile.alias ? profile.alias : '');

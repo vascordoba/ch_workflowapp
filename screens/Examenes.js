@@ -4,12 +4,12 @@ import { Button } from "react-native-elements";
 
 export default function Examenes({ navigation, route }) {
   const handleLogin = () => {
-    navigation.navigate("Carreras");
+    navigation.navigate("Planes");
   };
 
   return (
     <View style={styles.mainView}>
-      <Button title="Carreras" onPress={handleLogin} />
+      <Button title="Planes" onPress={handleLogin} />
     </View>
   );
 }
